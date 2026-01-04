@@ -6,7 +6,7 @@ Inspired by games like Friday Night Funkin', Parappa The Rapper, and Dance Dance
 Feel free to contribute!
 ______________________
 
-Hotkeys:
+Hotkeys (TEMPORARY):
 WASD - Spawn notes.
 Arrow Keys - Hit notes. (Both go to the right side of the screen.)
 
@@ -54,11 +54,15 @@ ______________________
 
 Windows:
 - Windows 10 (Supposedly.)
+- Windows 11
 
 Linux:
 - Zorin OS 17.1
 - Bodhi Linux
 - KDE Neon 22.04
+
+macOS:
+- macOS 12 (I forgot the version name, I think it's called Montomory?)
 
 In theory, this should work flawlessly on Ubuntu and Debian, since all of these happen to derive from it.
 
